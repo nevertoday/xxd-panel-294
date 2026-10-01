@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-294
-description: "Create XXD Panel 294 raster artwork: a faithful photograph paired with one small warm naive symbol, rounded silhouette, mixed-media grain and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-294 or asks for this 暖拙符号 style."
+description: "Create XXD Panel 294 raster artwork: a faithful photograph paired with one tiny black-and-white private symbol floating in a page that stays 80 to 95 percent blank. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-294 or asks for this 极小私符 style."
 ---
 
 # XXD Panel 294
@@ -11,7 +11,7 @@ Read `references/soldier-runtime.md` completely immediately before building ever
 
 ## Panel-specific overlay
 
-The transformed design is one private symbol, not an illustration. Use a simple primitive shape, a rounded silhouette and a hand contour that is allowed to be slightly clumsy. Keep pencil, pastel, paper and a little risograph error. Color is low, warm and lived-in: ivory, mist blue, sage, cream yellow, soft coral. One mark only, placed quietly, possibly off center. Type is a tiny collection number. Reject a complex scene, a commercial mascot, anime, smooth vector, 3D and a template icon.
+The transformed design is one tiny private symbol floating in 80–95% empty paper, not a redraw of the photograph. Keep only the one contour, pose or relationship that must be remembered. Lines are gestural, scratchy and unfinished, in black, grey and paper white, with at most one small colour accent taken from the photo. Text stays absent unless one very small word is necessary, and then it is weaker than the mark. Reject a full figure, a setting, decoration, a cute sticker, smooth vectors and a filled frame.
 
 These overlay rules add to `references/soldier-runtime.md`. They never replace the source brief or the family runtime contract.
 

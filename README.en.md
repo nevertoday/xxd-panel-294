@@ -1,8 +1,8 @@
 <div align="center">
 
-# XXD Panel 294｜暖拙符号
+# XXD Panel 294｜极小私符
 
-Keep the photograph above. Below, reduce the subject to one warm, slightly clumsy private symbol.
+Keep the photograph above. Below, leave one tiny black-and-white private symbol in a page that is almost entirely blank.
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
@@ -106,9 +106,9 @@ Twenty independent photographs, each rebuilt as one complete 3:4 top–bottom ca
 
 ## Best-fit situations and problems solved
 
-For turning a photograph into a small mark worth keeping. The upper half is the photograph. The lower half is one simple, rounded, slightly unbalanced silhouette, with pencil, pastel and paper grain left in.
+For turning a photograph into one tiny private symbol. The upper half is the photograph. The lower half is about 80–95% blank, keeping only one contour, one pose, or one relationship.
 
-Color stays quiet: warm ivory, mist blue, sage, cream yellow, soft coral. The symbol may sit off center in a large blank. Type is a private number. Avoid a complex scene, a commercial mascot, anime, smooth vector, 3D and a template icon.
+Lines stay hesitant, rough, and allowed to repeat. The default is black, grey, and paper white, with at most one small accent from the photo. The page can have no type at all. Avoid a full figure, a full scene, a cute sticker, smooth vector, and anything added just to fill the page.
 
 ## Usage tips
 
