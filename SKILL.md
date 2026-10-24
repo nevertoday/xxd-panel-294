@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-294
-description: "Create XXD Panel 294 raster artwork: a faithful photograph paired with one tiny black-and-white private symbol floating in a page that stays 80 to 95 percent blank. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-294 or asks for this 极小私符 style."
+description: "XXD Panel 294｜Tiny Private Sign: keeps the photo and leaves only one tiny black-and-white private symbol in a page that is about 80–95% blank — one head outline, one body posture, one gesture, or the single relationship between people, a person and an animal, or a person and a key object, compressed into one mark, with all scenery and secondary things removed. Hesitant, scratchy, repeated gestural ink lines that overshoot, stop and stay unclosed, dense only at the one emotional knot and quiet everywhere else, with only a faint low-resolution scan or photocopy feel. Black, grey and paper white by default, at most one tiny accent colour from the photo, and often no text at all, or a single tiny word. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-294 or asks for a tiny monochrome gestural doodle, minimal private symbol or almost-empty-page mark from a photo."
 ---
 
 # XXD Panel 294
